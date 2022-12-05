@@ -1,0 +1,15 @@
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.csproj.AssemblyReference.cache
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.AssemblyInfoInputs.cache
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.AssemblyInfo.cs
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.csproj.CoreCompileInputs.cache
+/Users/hugobler/Coding/C#/ClassesChallenge/bin/Debug/net7.0/ClassesChallenge
+/Users/hugobler/Coding/C#/ClassesChallenge/bin/Debug/net7.0/ClassesChallenge.deps.json
+/Users/hugobler/Coding/C#/ClassesChallenge/bin/Debug/net7.0/ClassesChallenge.runtimeconfig.json
+/Users/hugobler/Coding/C#/ClassesChallenge/bin/Debug/net7.0/ClassesChallenge.dll
+/Users/hugobler/Coding/C#/ClassesChallenge/bin/Debug/net7.0/ClassesChallenge.pdb
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.dll
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/refint/ClassesChallenge.dll
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.pdb
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ClassesChallenge.genruntimeconfig.cache
+/Users/hugobler/Coding/C#/ClassesChallenge/obj/Debug/net7.0/ref/ClassesChallenge.dll
